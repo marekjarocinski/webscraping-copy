@@ -1,2 +1,2 @@
 # webscraping-copy
-Repository for Gerome Wolf cours
+Repository for Gerome Wolf course
